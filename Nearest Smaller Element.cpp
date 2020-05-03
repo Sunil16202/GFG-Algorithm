@@ -1,3 +1,5 @@
+//https://www.interviewbit.com/problems/nearest-smaller-element/
+
 vector<int> Solution::prevSmaller(vector<int> &A) {
     int n = A.size();
     vector<int> v;
